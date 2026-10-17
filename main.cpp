@@ -5,8 +5,8 @@ using namespace std;
 int main() 
 {
 
-       string makanan [5]={"soto","rawon","pecel"."teh","kopi"};
-       int   harga [5]={15000,20000,10000,3000.5000};
+       string makanan [5]={"soto","rawon","pecel","teh","kopi"};
+       int   harga [5]={15000,20000,10000,3000,5000};
        int i;
        int porsi[5];
        string ulang;
